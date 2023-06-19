@@ -1,0 +1,4 @@
+CREATE TABLE raw_inventory(
+   product_id int,	product_name varchar(300),	product_cat varchar(300),product_subcat varchar(250),stock int,mrp int,cost_price int,vendor_phn varchar(300)
+
+)
